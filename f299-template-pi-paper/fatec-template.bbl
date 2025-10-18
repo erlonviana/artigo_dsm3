@@ -1,0 +1,959 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ahmareen2024}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=76d7d89fa63ad2dd5eca18eec690d930}{%
+           family={Ahmareen},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=251e860941de62444a5948ba9f830da4}{%
+           family={Potluri},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2934793d0840d6fd7d4902163f676fe0}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63850b979b5dae12115b811b85426e66}
+      \strng{fullhash}{63850b979b5dae12115b811b85426e66}
+      \strng{fullhashraw}{63850b979b5dae12115b811b85426e66}
+      \strng{bibnamehash}{63850b979b5dae12115b811b85426e66}
+      \strng{authorbibnamehash}{63850b979b5dae12115b811b85426e66}
+      \strng{authornamehash}{63850b979b5dae12115b811b85426e66}
+      \strng{authorfullhash}{63850b979b5dae12115b811b85426e66}
+      \strng{authorfullhashraw}{63850b979b5dae12115b811b85426e66}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainable Agriculture Through IoT-Enabled Vertical Farming}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10601426
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10601426
+      \endverb
+    \endentry
+    \entry{baronte2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05473fe55a7297886134ee4c2981fae9}{%
+           family={Baronte},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{fullhash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{fullhashraw}{05473fe55a7297886134ee4c2981fae9}
+      \strng{bibnamehash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{authorbibnamehash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{authornamehash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{authorfullhash}{05473fe55a7297886134ee4c2981fae9}
+      \strng{authorfullhashraw}{05473fe55a7297886134ee4c2981fae9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Repositório UNIRIO}
+      \field{title}{Redes Neurais Aplicadas à Predição de Valores de Ações}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://bsi.uniriotec.br/wp-content/uploads/sites/31/2022/04/202201_Breno-Phillip-Mendes-Baronte.pdf
+      \endverb
+      \verb{url}
+      \verb https://bsi.uniriotec.br/wp-content/uploads/sites/31/2022/04/202201_Breno-Phillip-Mendes-Baronte.pdf
+      \endverb
+    \endentry
+    \entry{agenciabrasil2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e10fae79cc75217619d3563e6348eab6}{%
+           family={Brasil},
+           familyi={B\bibinitperiod},
+           given={Agência},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{fullhash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{fullhashraw}{e10fae79cc75217619d3563e6348eab6}
+      \strng{bibnamehash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{authorbibnamehash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{authornamehash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{authorfullhash}{e10fae79cc75217619d3563e6348eab6}
+      \strng{authorfullhashraw}{e10fae79cc75217619d3563e6348eab6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 4 set. 2025}
+      \field{title}{Brasil tem 15 cidades com mais de 1 milhão de habitantes}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes#:~:text=As%20maiores%20s%C3%A3o%20a%20de,Belo%20Horizonte%20(6%20milh%C3%B5es).
+      \endverb
+      \verb{url}
+      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes#:~:text=As%20maiores%20s%C3%A3o%20a%20de,Belo%20Horizonte%20(6%20milh%C3%B5es).
+      \endverb
+    \endentry
+    \entry{carnaz2016}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=566416140c028f49c72d90af6a422be8}{%
+           family={Carnaz},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi J.\bibnamedelimi F.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de08331d8eda10cacafdcd2ce4d958a6}{%
+           family={Nogueira},
+           familyi={N\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{fullhash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{fullhashraw}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{bibnamehash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{authorbibnamehash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{authornamehash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{authorfullhash}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \strng{authorfullhashraw}{8c9299ba1d4b6cf614bdf228fc7b75fb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Actas das 6as Jornadas de Informática de Universidade de Évora}
+      \field{title}{An Overview of IoT and Healthcare}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10174/19998
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10174/19998
+      \endverb
+    \endentry
+    \entry{cepea2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f913130fcca2915112e2eeaa66b70fd5}{%
+           family={Cepea},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{fullhash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{fullhashraw}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{bibnamehash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{authorbibnamehash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{authornamehash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{authorfullhash}{f913130fcca2915112e2eeaa66b70fd5}
+      \strng{authorfullhashraw}{f913130fcca2915112e2eeaa66b70fd5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{PIB do Agronegócio Brasileiro}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
+      \endverb
+      \verb{url}
+      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
+      \endverb
+    \endentry
+    \entry{costa2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee378228550dc64a21984aa195df1303}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee378228550dc64a21984aa195df1303}
+      \strng{fullhash}{ee378228550dc64a21984aa195df1303}
+      \strng{fullhashraw}{ee378228550dc64a21984aa195df1303}
+      \strng{bibnamehash}{ee378228550dc64a21984aa195df1303}
+      \strng{authorbibnamehash}{ee378228550dc64a21984aa195df1303}
+      \strng{authornamehash}{ee378228550dc64a21984aa195df1303}
+      \strng{authorfullhash}{ee378228550dc64a21984aa195df1303}
+      \strng{authorfullhashraw}{ee378228550dc64a21984aa195df1303}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 13 abr. 2025}
+      \field{title}{Fazenda vertical: conheça ideia inteligente - mas cara - para nossa agricultura}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.terra.com.br/byte/fazenda-vertical-conheca-ideia-inteligente-mas-cara-para-nossa-agricultura,8267ddb7c47bb3cae47443acebc3f9a4b9jno3x9.html
+      \endverb
+      \verb{url}
+      \verb https://www.terra.com.br/byte/fazenda-vertical-conheca-ideia-inteligente-mas-cara-para-nossa-agricultura,8267ddb7c47bb3cae47443acebc3f9a4b9jno3x9.html
+      \endverb
+    \endentry
+    \entry{desiderio2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdb5b73ccae5f522caaa2facdeea4463}{%
+           family={Desidério},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{fullhash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{fullhashraw}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{bibnamehash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{authorbibnamehash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{authornamehash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{authorfullhash}{bdb5b73ccae5f522caaa2facdeea4463}
+      \strng{authorfullhashraw}{bdb5b73ccae5f522caaa2facdeea4463}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 13 abr. 2025}
+      \field{title}{PIB do Brasil cresce 3,4\% em 2024, puxado por serviços e indústria}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://economia.uol.com.br/noticias/redacao/2025/03/07/pib-2024.htm
+      \endverb
+      \verb{url}
+      \verb https://economia.uol.com.br/noticias/redacao/2025/03/07/pib-2024.htm
+      \endverb
+    \endentry
+    \entry{agenciagov2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=323c0f804428994b6cf2132ef9a5dc40}{%
+           family={Gov},
+           familyi={G\bibinitperiod},
+           given={Agência},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{fullhash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{fullhashraw}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{bibnamehash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{authorbibnamehash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{authornamehash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{authorfullhash}{323c0f804428994b6cf2132ef9a5dc40}
+      \strng{authorfullhashraw}{323c0f804428994b6cf2132ef9a5dc40}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{Brasil e países do Mercosul fazem projeções para o agronegócio}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
+      \endverb
+      \verb{url}
+      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
+      \endverb
+    \endentry
+    \entry{gundim2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0120f89b3c6fe9ccd5372640a25e232f}{%
+           family={Gundim},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi L.\bibnamedelimi S.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73573fb46b78eab0ec11e96dcdd3f34a}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{fullhash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{fullhashraw}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{bibnamehash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{authorbibnamehash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{authornamehash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{authorfullhash}{f0c73da7ed6005d2e592c545919d9886}
+      \strng{authorfullhashraw}{f0c73da7ed6005d2e592c545919d9886}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Repositorio UFSC}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{Edifícios agroprodutivos: a fazenda vertical como modelo sustentável de agricultura urbana}
+      \field{volume}{5}
+      \field{year}{2022}
+      \field{pages}{474\bibrangedash 485}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{haykin2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a82c75a42f733f690fc4303be716c96b}{%
+           family={Haykin},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bookman}%
+      }
+      \strng{namehash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{fullhash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{fullhashraw}{a82c75a42f733f690fc4303be716c96b}
+      \strng{bibnamehash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{authorbibnamehash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{authornamehash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{authorfullhash}{a82c75a42f733f690fc4303be716c96b}
+      \strng{authorfullhashraw}{a82c75a42f733f690fc4303be716c96b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Redes neurais - Princípio e prática}
+      \field{year}{2001}
+    \endentry
+    \entry{ingram2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc814c96feef3549ca5fa0ca025da330}{%
+           family={Ingram},
+           familyi={I\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nova Iorque}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{fullhash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{fullhashraw}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{bibnamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorbibnamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authornamehash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorfullhash}{bc814c96feef3549ca5fa0ca025da330}
+      \strng{authorfullhashraw}{bc814c96feef3549ca5fa0ca025da330}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Future of Us: The Science of What We'll Eat, Where We'll Live, and Who We'll Be}
+      \field{year}{2023}
+    \endentry
+    \entry{lisbinski2020}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4d8fa2885b59a5e215412da7f5a1f4fc}{%
+           family={Lisbinski},
+           familyi={L\bibinitperiod},
+           given={Fernanda\bibnamedelima Cigainski},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e8f2684caeb2196a432c9219c513976}{%
+           family={Mühl},
+           familyi={M\bibinitperiod},
+           given={Diego\bibnamedelima Durante},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a8d795df3775ab53deeccb2a06dfeb6}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Letícia\bibnamedelima de},
+           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c107a6c339a1f0037140a3b9ec9c7f85}{%
+           family={Coronel},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima Arruda},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Porto Alegre, RS}%
+      }
+      \strng{namehash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{fullhash}{3ad03f0843899e911461386011bcadee}
+      \strng{fullhashraw}{3ad03f0843899e911461386011bcadee}
+      \strng{bibnamehash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{authorbibnamehash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{authornamehash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{authorfullhash}{3ad03f0843899e911461386011bcadee}
+      \strng{authorfullhashraw}{3ad03f0843899e911461386011bcadee}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{VIII Simpósio de Ciência do Agronegócio – Inovação e Empreendedorismo no Agronegócio}
+      \field{note}{Acesso em: 9 set. 2025}
+      \field{title}{Perspectivas e desafios da Agricultura 4.0 para o setor agrícola / Perspectives and challenges of Agriculture 4.0 for the agricultural sector}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf?se
+      \endverb
+      \verb{url}
+      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf?se
+      \endverb
+    \endentry
+    \entry{lucena2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=98cb795987364d9802f2bbf7d815bc04}{%
+           family={Lucena},
+           familyi={L\bibinitperiod},
+           given={L.\bibnamedelimi P.},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1241d0ed6485e4eee2a3789984eeb378}{%
+           family={Massuia},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{fullhash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{fullhashraw}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{bibnamehash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{authorbibnamehash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{authornamehash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{authorfullhash}{b106c8183d60e758b3339dcdd91e95cf}
+      \strng{authorfullhashraw}{b106c8183d60e758b3339dcdd91e95cf}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{urbe. Revista Brasileira de Gestão Urbana}
+      \field{title}{O papel da moderna agricultura urbana de Singapura na política de segurança alimentar e na contribuição da redução de emissão de CO2 na atmosfera}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{e20190272}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1590/2175-3369.013.e20190272
+      \endverb
+    \endentry
+    \entry{luz2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=abe396eb906c1f8eb0d44d52e2a48231}{%
+           family={Luz},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi Q.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8750eb3569cd01529b3f07e0de590584}{%
+           family={Guimarães},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi T.\bibnamedelimi M.\bibnamedelimi R.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48dd134c65cab562e701f98f78c0a469}{%
+           family={Korndöfer},
+           familyi={K\bibinitperiod},
+           given={G.\bibnamedelimi H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{fullhash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{fullhashraw}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{bibnamehash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{authorbibnamehash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{authornamehash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{authorfullhash}{94c19abc130f661f3c0884b1f0f160f9}
+      \strng{authorfullhashraw}{94c19abc130f661f3c0884b1f0f160f9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hortic. bras.}
+      \field{number}{3}
+      \field{title}{Produção hidropônica de alface em solução nutritiva com e sem silício}
+      \field{volume}{24}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \endverb
+    \endentry
+    \entry{paixao2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13e291aa58812129467cc9fe69ade59b}{%
+           family={Paixão},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi M.\bibnamedelimi de\bibnamedelimb M.\bibnamedelimi et\bibnamedelima al.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{fullhash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{fullhashraw}{13e291aa58812129467cc9fe69ade59b}
+      \strng{bibnamehash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{authorbibnamehash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{authornamehash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{authorfullhash}{13e291aa58812129467cc9fe69ade59b}
+      \strng{authorfullhashraw}{13e291aa58812129467cc9fe69ade59b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arquivos Brasileiros de Cardiologia}
+      \field{number}{1}
+      \field{title}{Machine Learning na Medicina: Revisão e Aplicabilidade}
+      \field{volume}{118}
+      \field{year}{2022}
+      \field{pages}{95\bibrangedash 102}
+      \range{pages}{8}
+    \endentry
+    \entry{radioagencia2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=73318fd554fc720f8f5b99884ad9da5d}{%
+           family={Radioagencia},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{fullhash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{fullhashraw}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{bibnamehash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{authorbibnamehash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{authornamehash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{authorfullhash}{73318fd554fc720f8f5b99884ad9da5d}
+      \strng{authorfullhashraw}{73318fd554fc720f8f5b99884ad9da5d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 4 set. 2025}
+      \field{title}{Insegurança alimentar atinge cerca de 50\% da população da cidade de SP}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp#:~:text=E%20tem%20ainda%20a%20inseguran%C3%A7a,a%20Alimenta%C3%A7%C3%A3o%20e%20a%20Agricultura.
+      \endverb
+      \verb{url}
+      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp#:~:text=E%20tem%20ainda%20a%20inseguran%C3%A7a,a%20Alimenta%C3%A7%C3%A3o%20e%20a%20Agricultura.
+      \endverb
+    \endentry
+    \entry{rakhmatulin2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8ec143b2aafcd1929240a5534e9cc17}{%
+           family={Rakhmatulin},
+           familyi={R\bibinitperiod},
+           given={Ildar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{fullhash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{fullhashraw}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{bibnamehash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{authorbibnamehash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{authornamehash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{authorfullhash}{c8ec143b2aafcd1929240a5534e9cc17}
+      \strng{authorfullhashraw}{c8ec143b2aafcd1929240a5534e9cc17}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental \& Theoretical Artificial Intelligence}
+      \field{number}{1}
+      \field{title}{Neural network for automatic farm control}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{147\bibrangedash 160}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/0952813X.2020.1725653
+      \endverb
+    \endentry
+    \entry{ryu2015}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=42037d421db1db222592e4349507debc}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Minwoo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=838f18cb656615acf5e5eaec2a117b32}{%
+           family={Yun},
+           familyi={Y\bibinitperiod},
+           given={Jaeseok},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0888ff7fc75df606d301569f62fae71}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94362b8b767f56f531058e6c87c9f65d}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Il-Yeup},
+           giveni={I\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc32149fd48816313a5a46d71d1f9c30}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Sung-Chan},
+           giveni={S\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05256499e056fde9e927ab0444eaf3e8}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jaeho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Busan, Coreia do Sul}%
+      }
+      \strng{namehash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{fullhash}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \strng{fullhashraw}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \strng{bibnamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{authorbibnamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{authornamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{authorfullhash}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \strng{authorfullhashraw}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE SENSORS}
+      \field{note}{Acesso em: 9 set. 2025}
+      \field{title}{Design and implementation of a connected farm for smart farming system}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1109/ICSENS.2015.7370624
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7370624
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7370624
+      \endverb
+    \endentry
+    \entry{sampa2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b7d5520df0e656a8cd27d17665c2ee6e}{%
+           family={Sampa+Rural},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{fullhash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{fullhashraw}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{bibnamehash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{authorbibnamehash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{authornamehash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{authorfullhash}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \strng{authorfullhashraw}{b7d5520df0e656a8cd27d17665c2ee6e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 9 set. 2025}
+      \field{title}{Agricultura}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://sampamaisrural.prefeitura.sp.gov.br/categoria/agricultores
+      \endverb
+      \verb{url}
+      \verb https://sampamaisrural.prefeitura.sp.gov.br/categoria/agricultores
+      \endverb
+    \endentry
+    \entry{saraswathy2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=395f7ab6fc3e2a1d9574d0e030e6ed15}{%
+           family={Saraswathy},
+           familyi={S\bibinitperiod},
+           given={V.\bibnamedelimi R.},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d756411d56a1e61e8fd8168e2157a531}{%
+           family={Nithiesh},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c95b65b65ee2ed20827f2d1fe9b7a272}{%
+           family={Kumaravel},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44cbce120d6f8003704e46955fda8e94}{%
+           family={Ruphasri},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{fullhash}{7269ac21dc935dbf405699cbcb974147}
+      \strng{fullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \strng{bibnamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authorbibnamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authornamehash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authorfullhash}{7269ac21dc935dbf405699cbcb974147}
+      \strng{authorfullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Engineering and Emerging Technology}
+      \field{number}{4}
+      \field{title}{Integrating Intelligence in Hydroponic Farms}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{150\bibrangedash 158}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://iaeme.com/Home/issue/IJEET?Volume=11&Issue=4
+      \endverb
+      \verb{url}
+      \verb https://iaeme.com/Home/issue/IJEET?Volume=11&Issue=4
+      \endverb
+    \endentry
+    \entry{seade2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee461cefbe0466deafc3b59a8fc6b4b1}{%
+           family={SEADE},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{fullhash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{fullhashraw}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{bibnamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{authorbibnamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{authornamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{authorfullhash}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \strng{authorfullhashraw}{ee461cefbe0466deafc3b59a8fc6b4b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 04 set. 2025}
+      \field{title}{Seade PIB}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://pib.seade.gov.br/integra/?analise=pib-cresceu-na-maioria-das-regioes-do-estado-em-2024
+      \endverb
+      \verb{url}
+      \verb https://pib.seade.gov.br/integra/?analise=pib-cresceu-na-maioria-das-regioes-do-estado-em-2024
+      \endverb
+    \endentry
+    \entry{sindresbar2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f07e1eccb9318681bc4b7db75501a97d}{%
+           family={SINDRESBAR},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{fullhash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{fullhashraw}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{bibnamehash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{authorbibnamehash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{authornamehash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{authorfullhash}{f07e1eccb9318681bc4b7db75501a97d}
+      \strng{authorfullhashraw}{f07e1eccb9318681bc4b7db75501a97d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 04 set. 2025}
+      \field{title}{São Paulo: a capital dos bares e restaurantes do Brasil}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/
+      \endverb
+      \verb{url}
+      \verb https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/
+      \endverb
+    \endentry
+    \entry{sousa2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4356799a5bfe29700fccf0b31017d7e0}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Thiago\bibnamedelimb Pereira\bibnamedelima de},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{fullhash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{fullhashraw}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{bibnamehash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{authorbibnamehash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{authornamehash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{authorfullhash}{4356799a5bfe29700fccf0b31017d7e0}
+      \strng{authorfullhashraw}{4356799a5bfe29700fccf0b31017d7e0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Patos de Minas – MG: Universidade Federal de Uberlândia, Faculdade de Engenharia Elétrica, Engenharia Eletrônica e de Telecomunicações}
+      \field{note}{Acesso em: 9 set. 2025}
+      \field{title}{Desenvolvimento de módulos de sensoriamento para a supervisão e controle de fazendas verticais}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://repositorio.ufu.br/bitstream/123456789/38575/1/DesenvolvimentoM%C3%B3dulosSensoriamento.pdf
+      \endverb
+      \verb{url}
+      \verb https://repositorio.ufu.br/bitstream/123456789/38575/1/DesenvolvimentoM%C3%B3dulosSensoriamento.pdf
+      \endverb
+    \endentry
+    \entry{agenciasp2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35f03c7b05a5730c4ca2f944a40bff42}{%
+           family={SP},
+           familyi={S\bibinitperiod},
+           given={Agência},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{fullhash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{fullhashraw}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{bibnamehash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{authorbibnamehash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{authornamehash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{authorfullhash}{35f03c7b05a5730c4ca2f944a40bff42}
+      \strng{authorfullhashraw}{35f03c7b05a5730c4ca2f944a40bff42}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 13 abr. 2025}
+      \field{title}{PIB paulista cresce 3,4\% em 2024}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.agenciasp.sp.gov.br/pib-paulista-cresce-34-em-2024/
+      \endverb
+      \verb{url}
+      \verb https://www.agenciasp.sp.gov.br/pib-paulista-cresce-34-em-2024/
+      \endverb
+    \endentry
+    \entry{nacoesunidas2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5ceb48444233193d2f1cb40ef704d641}{%
+           family={Unidas},
+           familyi={U\bibinitperiod},
+           given={Nações},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{fullhash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{fullhashraw}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{bibnamehash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{authorbibnamehash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{authornamehash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{authorfullhash}{5ceb48444233193d2f1cb40ef704d641}
+      \strng{authorfullhashraw}{5ceb48444233193d2f1cb40ef704d641}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{Sobre o nosso trabalho para alcançar os Objetivos de Desenvolvimento Sustentável no Brasil}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://brasil.un.org/pt-br/sdgs
+      \endverb
+      \verb{url}
+      \verb https://brasil.un.org/pt-br/sdgs
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

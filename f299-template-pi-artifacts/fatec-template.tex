@@ -1,0 +1,50 @@
+%%%% fatec-article.tex, 2024/03/10
+
+\documentclass[
+  a4paper,%% Tamanho de papel: a4paper, letterpaper (^), etc.
+  12pt,%% Tamanho de fonte: 10pt (^), 11pt, 12pt, etc.
+  english,%% Idioma secundário (penúltimo) (>)
+  brazilian,%% Idioma primário (último) (>)
+]{article}
+
+%% Pacotes utilizados
+\usepackage[]{fatec-article}
+
+%% Início do documento
+\begin{document}
+\vspace{8cm}
+\begin{center}
+    \large \textbf{\title{ARTEFATOS DO PROJETO DE SOFTWARE}}
+\end{center}
+
+\maketitle
+
+\break
+
+\tableofcontents
+
+\break
+
+
+%exemplo da forma de organização das seções e subseções, você deverá adaptar o template para a realidade do seu projeto.
+
+\section*{Diagramas UML}
+    Nesta seção serão apresentados os diagramas da UML utilizados para a modelagem do sistema desenvolvido. No nosso caso foi desenvolvido o diagrama de Caso de Uso.
+    
+    \subsection*{Diagrama de Caso de Uso}
+    \addcontentsline{toc}{section}{Diagrama de Caso de Uso}
+
+    Esse é um exemplo de diagrama de caso de uso, você deverá descrever todos os componentes presentes no diagrama (atores e funcionalidades do sistema).
+
+            \begin{figure}[h]
+\centering
+\caption{Diagrama de caso de uso}
+\label{fig:diagrama-caso-uso}
+ \includegraphics[scale=0.5]{Logos/Diagrama em branco.png}
+\SourceOrNote{Maia (2024)}
+\end{figure}
+
+    No contexto da Fazenda Vertical orientada por Redes Neurais foram mapeadas as principais necessidades do usuário. Desta forma, identificamos 9 necessidades básicas (registro, login, tela inicial, escolher tipo de hortaliça, escolha do fertilizante, ver o dashboard, definir o nível de automação, configurar dados e ver câmeras em tempo real) que são atividades cruciais para a experiência do usuário e o sucesso do projeto.
+    
+
+\end{document}
