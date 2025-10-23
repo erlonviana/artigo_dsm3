@@ -63,6 +63,56 @@
       \verb https://ieeexplore.ieee.org/document/10601426
       \endverb
     \endentry
+    \entry{alves2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=94e7630b95084bc444349497874d3da1}{%
+           family={ALVES},
+           familyi={A\bibinitperiod},
+           given={Deise\bibnamedelimb de\bibnamedelima Oliveira},
+           giveni={D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54b2156b70431c4c102adda735b9050d}{%
+           family={ROCHA},
+           familyi={R\bibinitperiod},
+           given={Geneci\bibnamedelimb da\bibnamedelimb Silva\bibnamedelima Rieiro},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c18495beec7744f369fc434fd8974309}{%
+           family={KUCHAK},
+           familyi={K\bibinitperiod},
+           given={Maielen\bibnamedelima Lambrecht},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39cd8ae569b4fd2cbf57c91bfd141d7d}{%
+           family={OLIVEIRA},
+           familyi={O\bibinitperiod},
+           given={Letícia\bibnamedelima de},
+           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{775206a1f447bdb0a7343a7fe593bb6c}
+      \strng{fullhash}{a2a0900f8f633564d9e4372bd3560b54}
+      \strng{fullhashraw}{a2a0900f8f633564d9e4372bd3560b54}
+      \strng{bibnamehash}{775206a1f447bdb0a7343a7fe593bb6c}
+      \strng{authorbibnamehash}{775206a1f447bdb0a7343a7fe593bb6c}
+      \strng{authornamehash}{775206a1f447bdb0a7343a7fe593bb6c}
+      \strng{authorfullhash}{a2a0900f8f633564d9e4372bd3560b54}
+      \strng{authorfullhashraw}{a2a0900f8f633564d9e4372bd3560b54}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista da Universidade Vale do Rio Verde}
+      \field{number}{2}
+      \field{title}{Análise de cenários no contexto das tecnologias utilizadas nas fazendas verticais}
+      \field{volume}{20}
+      \field{year}{2021}
+      \verb{doi}
+      \verb http://dx.doi.org/10.5892/ruvrd.v20i2.6311
+      \endverb
+    \endentry
     \entry{baronte2022}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=05473fe55a7297886134ee4c2981fae9}{%
