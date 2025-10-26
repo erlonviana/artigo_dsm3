@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  23 OCT 2025 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  26 OCT 2025 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1291,11 +1291,11 @@ File: Logos/PI - Diagrama de Objetos.png Graphic file (type png)
 <use Logos/PI - Diagrama de Objetos.png>
 Package pdftex.def Info: Logos/PI - Diagrama de Objetos.png  used on input line 35.
 (pdftex.def)             Requested size: 158.09023pt x 301.50066pt.
-<Logos/PI - Diagrama de Banco de Dados.png, id=55, 295.1025pt x 255.95625pt>
-File: Logos/PI - Diagrama de Banco de Dados.png Graphic file (type png)
-<use Logos/PI - Diagrama de Banco de Dados.png>
-Package pdftex.def Info: Logos/PI - Diagrama de Banco de Dados.png  used on input line 48.
-(pdftex.def)             Requested size: 236.0823pt x 204.76526pt.
+<Logos/PI - Diagrama de Banco de Dados.jpg, id=55, 719.68875pt x 386.44376pt>
+File: Logos/PI - Diagrama de Banco de Dados.jpg Graphic file (type jpg)
+<use Logos/PI - Diagrama de Banco de Dados.jpg>
+Package pdftex.def Info: Logos/PI - Diagrama de Banco de Dados.jpg  used on input line 48.
+(pdftex.def)             Requested size: 359.84349pt x 193.2214pt.
 
 
 [3 <./Logos/PI - Diagrama de Objetos.png>]
@@ -1307,15 +1307,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<./Logos/PI - CANVAS.png, id=63, 432.61626pt x 490.83376pt>
+<./Logos/PI - CANVAS.png, id=62, 432.61626pt x 490.83376pt>
 File: ./Logos/PI - CANVAS.png Graphic file (type png)
 <use ./Logos/PI - CANVAS.png>
 Package pdftex.def Info: ./Logos/PI - CANVAS.png  used on input line 61.
 (pdftex.def)             Requested size: 389.35103pt x 441.74629pt.
 
 
-[4 <./Logos/PI - Diagrama de Banco de Dados.png>]
-<./Logos/PI - Diagrama de rede.png, id=71, 624.23213pt x 554.67226pt>
+[4 <./Logos/PI - Diagrama de Banco de Dados.jpg>]
+<./Logos/PI - Diagrama de rede.png, id=70, 624.23213pt x 554.67226pt>
 File: ./Logos/PI - Diagrama de rede.png Graphic file (type png)
 <use ./Logos/PI - Diagrama de rede.png>
 Package pdftex.def Info: ./Logos/PI - Diagrama de rede.png  used on input line 74.
@@ -1323,7 +1323,7 @@ Package pdftex.def Info: ./Logos/PI - Diagrama de rede.png  used on input line 7
 
 
 [5 <./Logos/PI - CANVAS.png>]
-<./Logos/PI - SWOT.jpg, id=78, 1265.72874pt x 1242.6425pt>
+<./Logos/PI - SWOT.jpg, id=77, 1265.72874pt x 1242.6425pt>
 File: ./Logos/PI - SWOT.jpg Graphic file (type jpg)
 <use ./Logos/PI - SWOT.jpg>
 Package pdftex.def Info: ./Logos/PI - SWOT.jpg  used on input line 87.
@@ -1336,7 +1336,7 @@ Overfull \hbox (22.58566pt too wide) in paragraph at lines 87--88
 
 
 [6 <./Logos/PI - Diagrama de rede.png>]
-<./Logos/PI - Kanban Greenrise.png, id=85, 910.90312pt x 706.89093pt>
+<./Logos/PI - Kanban Greenrise.png, id=84, 910.90312pt x 706.89093pt>
 File: ./Logos/PI - Kanban Greenrise.png Graphic file (type png)
 <use ./Logos/PI - Kanban Greenrise.png>
 Package pdftex.def Info: ./Logos/PI - Kanban Greenrise.png  used on input line 100.
@@ -1371,9 +1371,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  87i,12n,131p,1816b,4538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (8 pages, 603437 bytes).
+Output written on fatec-template.pdf (8 pages, 631942 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)
  16479 words of extra memory for PDF output out of 17280 (max. 10000000)
 

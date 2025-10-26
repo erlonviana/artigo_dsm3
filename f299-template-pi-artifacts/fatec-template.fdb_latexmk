@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber fatec-template"] 0 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761242197.96775 -1
-  "fatec-template.bcf" 1761242197 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
+["biber fatec-template"] 1761508717.86093 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1761508755.0025 0
+  "fatec-template.bcf" 1761508754 113655 15dae3cd1f42b900626071d0d281a50e "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1761242195.22657 "c:/Users/Erlon/Desktop/Artigo - DSM3/artigo_dsm3/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761242197.96827 0
+["pdflatex"] 1761508748.90595 "c:/Users/Erlon/Desktop/Artigo - DSM3/artigo_dsm3/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1761508755.00383 0
   "C:/Users/Erlon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761241051 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/Erlon/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761134785 13321623 48c67509cc9a157110e4cf1d86d46da7 ""
   "C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -174,19 +174,19 @@
   "C:/Users/Erlon/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/Erlon/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
   "Logos/PI - CANVAS.png" 1761237728 193857 ae9ae225dcc2c7da72a3af417cb78b5f ""
-  "Logos/PI - Diagrama de Banco de Dados.png" 1761240370 22096 b80209a81cbb04ea4e4262a185c3b5f1 ""
+  "Logos/PI - Diagrama de Banco de Dados.jpg" 1761508408 43040 a8e80014ee4de1eaf745454efa28c528 ""
   "Logos/PI - Diagrama de Objetos.png" 1761222664 60964 80beafdd0916175a49204c40a1fb3c83 ""
   "Logos/PI - Diagrama de rede.png" 1761242121 72089 ef28fac6b03ceecb994e3d509aa2ddc0 ""
   "Logos/PI - Kanban Greenrise.png" 1761240349 157418 c20e8156130e34a61720c939de537405 ""
   "Logos/PI - SWOT.jpg" 1761239919 145925 663a6a654667586eb1d9a03fa13f743b ""
-  "c:/Users/Erlon/Desktop/Artigo - DSM3/artigo_dsm3/f299-template-pi-artifacts/fatec-template.tex" 1761242194 5907 3ea46b343275a964a8c1fb27e4d24de7 ""
+  "c:/Users/Erlon/Desktop/Artigo - DSM3/artigo_dsm3/f299-template-pi-artifacts/fatec-template.tex" 1761508747 5907 0ef3794829b4c74ad77cdef42ba1bf2d ""
   "fatec-article.sty" 1761072704 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1761242197 2541 ab4dd65f31de9953da0b7907cd71c554 "pdflatex"
-  "fatec-template.bbl" 1761231557 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1761242197 1137 a4472ec15023a17faec2a1b92887ddf9 "pdflatex"
-  "fatec-template.run.xml" 1761242197 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1761242194 5907 3ea46b343275a964a8c1fb27e4d24de7 ""
-  "fatec-template.toc" 1761242197 588 509e5f87add7bf941db25f91f4f63af6 "pdflatex"
+  "fatec-template.aux" 1761508754 2541 ab4dd65f31de9953da0b7907cd71c554 "pdflatex"
+  "fatec-template.bbl" 1761508720 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
+  "fatec-template.out" 1761508754 1137 a4472ec15023a17faec2a1b92887ddf9 "pdflatex"
+  "fatec-template.run.xml" 1761508754 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1761508747 5907 0ef3794829b4c74ad77cdef42ba1bf2d ""
+  "fatec-template.toc" 1761508754 588 509e5f87add7bf941db25f91f4f63af6 "pdflatex"
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"
