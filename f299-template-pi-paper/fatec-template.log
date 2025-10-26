@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  22 OCT 2025 09:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  26 OCT 2025 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -983,8 +983,15 @@ Package newfloat Info: float type `tabframed'=64 on input line 848.
 Package newfloat Info: \tabframedname is already defined on input line 848.
 \CaptionWidth=\skip117
 \AbstractMargin=\skip118
+) (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count483
+\float@exts=\toks40
+\float@box=\box60
+\@float@everytoks=\toks41
+\@floatcapt=\box61
 )
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -994,82 +1001,76 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazilian'.
  (fatec-template.aux
 Package babel Info: 'brazilian' activates 'portuges' shorthands.
-(babel)             Reported on input line 25.
+(babel)             Reported on input line 29.
 )
 \openout1 = `fatec-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 39.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 39.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count483
+\scratchcounter=\count484
 \scratchdimen=\dimen278
-\scratchbox=\box60
-\nofMPsegments=\count484
-\nofMParguments=\count485
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count486
+\scratchbox=\box62
+\nofMPsegments=\count485
+\nofMParguments=\count486
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count487
 \MPscratchDim=\dimen279
-\MPnumerator=\count487
-\makeMPintoPDFobject=\count488
-\everyMPtoPDFconversion=\toks41
+\MPnumerator=\count488
+\makeMPintoPDFobject=\count489
+\everyMPtoPDFconversion=\toks43
 ) (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count489
-\c@mv@boldtabular=\count490
-LaTeX Info: Command `\dddot' is already robust on input line 39.
-LaTeX Info: Command `\ddddot' is already robust on input line 39.
-LaTeX Info: Redefining \microtypecontext on input line 39.
-Package microtype Info: Applying patch `item' on input line 39.
-Package microtype Info: Applying patch `toc' on input line 39.
-Package microtype Info: Applying patch `verbatim' on input line 39.
-LaTeX Info: Redefining \microtypesetup on input line 39.
+\c@mv@tabular=\count490
+\c@mv@boldtabular=\count491
+LaTeX Info: Command `\dddot' is already robust on input line 40.
+LaTeX Info: Command `\ddddot' is already robust on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 40.
+Package microtype Info: Applying patch `item' on input line 40.
+Package microtype Info: Applying patch `toc' on input line 40.
+Package microtype Info: Applying patch `verbatim' on input line 40.
+LaTeX Info: Redefining \microtypesetup on input line 40.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1119,7 +1120,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package newfloat Info: `float' package detected.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
@@ -1185,125 +1188,133 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'fatec-template.bbl' found.
  (fatec-template.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
-Package hyperref Info: Link coloring ON on input line 39.
+Package biblatex Info: Reference section=0 on input line 40.
+Package biblatex Info: Reference segment=0 on input line 40.
+Package hyperref Info: Link coloring ON on input line 40.
  (fatec-template.out) (fatec-template.out)
 \@outlinefile=\write4
 \openout4 = `fatec-template.out'.
 
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
-Package cleveref Info: loaded `english' language definitions on input line 39.
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 39.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
+Package cleveref Info: loaded `english' language definitions on input line 40.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `minntx' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 39.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 40.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 12.0pt on input line 39.
+(Font)              scaled to size 12.0pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.8pt on input line 39.
+(Font)              scaled to size 8.8pt on input line 40.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 39.
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
-Package cleveref Info: loaded `english' language definitions on input line 39.
-Package cleveref Info: loaded `brazilian' language definitions on input line 39.
+(Font)              scaled to size 6.6pt on input line 40.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
+Package cleveref Info: loaded `english' language definitions on input line 40.
+Package cleveref Info: loaded `brazilian' language definitions on input line 40.
  (Topicos/introducao.tex
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
 
-<./Illustrations/fatec.jpg, id=27, 401.5pt x 401.5pt>
+
+<./Illustrations/fatec.jpg, id=31, 401.5pt x 401.5pt>
 File: ./Illustrations/fatec.jpg Graphic file (type jpg)
 <use ./Illustrations/fatec.jpg>
-Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 6.
+Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 8.
 (pdftex.def)             Requested size: 99.58444pt x 99.58464pt.
 [1{C:/Users/Erlon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
- <./Illustrations/fatec.jpg>]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 13.
-)
+ <./Illustrations/fatec.jpg>]) (Topicos/objetivo.tex) (Topicos/estadodaarte.tex
 
-[2] (Topicos/objetivo.tex) (Topicos/estadodaarte.tex)
+[2])
 
 [3] (Topicos/metodologia.tex
-<Illustrations/Fluxograma1.png, id=115, 1927.2pt x 1084.05pt>
-File: Illustrations/Fluxograma1.png Graphic file (type png)
-<use Illustrations/Fluxograma1.png>
-Package pdftex.def Info: Illustrations/Fluxograma1.png  used on input line 4.
-(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
-<Illustrations/Fluxograma2.png, id=116, 1927.2pt x 1084.05pt>
-File: Illustrations/Fluxograma2.png Graphic file (type png)
-<use Illustrations/Fluxograma2.png>
-Package pdftex.def Info: Illustrations/Fluxograma2.png  used on input line 14.
-(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<Illustrations/Figura 1.png, id=98, 6073.69125pt x 1395.2125pt>
+File: Illustrations/Figura 1.png Graphic file (type png)
+<use Illustrations/Figura 1.png>
+Package pdftex.def Info: Illustrations/Figura 1.png  used on input line 4.
+(pdftex.def)             Requested size: 485.90524pt x 111.61928pt.
+
+Overfull \hbox (2.20837pt too wide) in paragraph at lines 4--6
+ [][] 
+ []
+
+<Illustrations/Figura 2.png, id=99, 1149.29375pt x 899.36pt>
+File: Illustrations/Figura 2.png Graphic file (type png)
+<use Illustrations/Figura 2.png>
+Package pdftex.def Info: Illustrations/Figura 2.png  used on input line 16.
+(pdftex.def)             Requested size: 229.85468pt x 179.8688pt.
+<Illustrations/Figura 3.png, id=100, 1161.33875pt x 850.17625pt>
+File: Illustrations/Figura 3.png Graphic file (type png)
+<use Illustrations/Figura 3.png>
+Package pdftex.def Info: Illustrations/Figura 3.png  used on input line 27.
+(pdftex.def)             Requested size: 232.26363pt x 170.03223pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[4 <./Illustrations/Figura 1.png> <./Illustrations/Figura 2.png>]) (Topicos/resultados.tex) (Topicos/conclusao.tex)
 
-)
-
-[4 <./Illustrations/Fluxograma1.png>] (Topicos/resultados.tex) (Topicos/conclusao.tex)
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 76.
+[5 <./Illustrations/Figura 3.png>]
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 77.
  (C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1311,129 +1322,102 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-
-
-[5 <./Illustrations/Fluxograma2.png>]
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
 
 
 [6]
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
 
 
 [7]
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
+Package cleveref Info: loaded `brazilian' language definitions on input line 77.
 
 
 [8] (fatec-template.aux
-Package cleveref Info: loaded `brazilian' language definitions on input line 25.
-Package cleveref Info: loaded `brazilian' language definitions on input line 26.
-Package cleveref Info: loaded `brazilian' language definitions on input line 27.
-Package cleveref Info: loaded `english' language definitions on input line 28.
 Package cleveref Info: loaded `brazilian' language definitions on input line 29.
 Package cleveref Info: loaded `brazilian' language definitions on input line 30.
 Package cleveref Info: loaded `brazilian' language definitions on input line 31.
 Package cleveref Info: loaded `english' language definitions on input line 32.
 Package cleveref Info: loaded `brazilian' language definitions on input line 33.
+Package cleveref Info: loaded `brazilian' language definitions on input line 34.
+Package cleveref Info: loaded `brazilian' language definitions on input line 35.
+Package cleveref Info: loaded `english' language definitions on input line 36.
+Package cleveref Info: loaded `brazilian' language definitions on input line 37.
+Package cleveref Info: loaded `brazilian' language definitions on input line 117.
+Package cleveref Info: loaded `brazilian' language definitions on input line 118.
+Package cleveref Info: loaded `brazilian' language definitions on input line 121.
+Package cleveref Info: loaded `brazilian' language definitions on input line 122.
+Package cleveref Info: loaded `brazilian' language definitions on input line 124.
+Package cleveref Info: loaded `brazilian' language definitions on input line 125.
+Package cleveref Info: loaded `brazilian' language definitions on input line 127.
+Package cleveref Info: loaded `brazilian' language definitions on input line 128.
 Package cleveref Info: loaded `brazilian' language definitions on input line 130.
 Package cleveref Info: loaded `brazilian' language definitions on input line 131.
+Package cleveref Info: loaded `brazilian' language definitions on input line 133.
 Package cleveref Info: loaded `brazilian' language definitions on input line 134.
-Package cleveref Info: loaded `brazilian' language definitions on input line 135.
-Package cleveref Info: loaded `brazilian' language definitions on input line 137.
 Package cleveref Info: loaded `brazilian' language definitions on input line 138.
-Package cleveref Info: loaded `brazilian' language definitions on input line 140.
-Package cleveref Info: loaded `brazilian' language definitions on input line 141.
+Package cleveref Info: loaded `brazilian' language definitions on input line 139.
+Package cleveref Info: loaded `brazilian' language definitions on input line 142.
 Package cleveref Info: loaded `brazilian' language definitions on input line 143.
-Package cleveref Info: loaded `brazilian' language definitions on input line 144.
 Package cleveref Info: loaded `brazilian' language definitions on input line 146.
 Package cleveref Info: loaded `brazilian' language definitions on input line 147.
-Package cleveref Info: loaded `brazilian' language definitions on input line 149.
 Package cleveref Info: loaded `brazilian' language definitions on input line 150.
-Package cleveref Info: loaded `brazilian' language definitions on input line 152.
+Package cleveref Info: loaded `brazilian' language definitions on input line 151.
 Package cleveref Info: loaded `brazilian' language definitions on input line 153.
-Package cleveref Info: loaded `brazilian' language definitions on input line 155.
+Package cleveref Info: loaded `brazilian' language definitions on input line 154.
 Package cleveref Info: loaded `brazilian' language definitions on input line 156.
+Package cleveref Info: loaded `brazilian' language definitions on input line 157.
+Package cleveref Info: loaded `brazilian' language definitions on input line 159.
 Package cleveref Info: loaded `brazilian' language definitions on input line 160.
-Package cleveref Info: loaded `brazilian' language definitions on input line 161.
-Package cleveref Info: loaded `brazilian' language definitions on input line 164.
-Package cleveref Info: loaded `brazilian' language definitions on input line 165.
-Package cleveref Info: loaded `brazilian' language definitions on input line 168.
-Package cleveref Info: loaded `brazilian' language definitions on input line 169.
-Package cleveref Info: loaded `brazilian' language definitions on input line 172.
-Package cleveref Info: loaded `brazilian' language definitions on input line 173.
-Package cleveref Info: loaded `brazilian' language definitions on input line 175.
-Package cleveref Info: loaded `brazilian' language definitions on input line 176.
-Package cleveref Info: loaded `brazilian' language definitions on input line 178.
-Package cleveref Info: loaded `brazilian' language definitions on input line 179.
-Package cleveref Info: loaded `brazilian' language definitions on input line 181.
-Package cleveref Info: loaded `brazilian' language definitions on input line 182.
-Package cleveref Info: loaded `brazilian' language definitions on input line 184.
-Package cleveref Info: loaded `brazilian' language definitions on input line 185.
-Package cleveref Info: loaded `brazilian' language definitions on input line 187.
-Package cleveref Info: loaded `brazilian' language definitions on input line 188.
-Package cleveref Info: loaded `brazilian' language definitions on input line 190.
-Package cleveref Info: loaded `brazilian' language definitions on input line 191.
-Package cleveref Info: loaded `brazilian' language definitions on input line 193.
-Package cleveref Info: loaded `brazilian' language definitions on input line 194.
+Package cleveref Info: loaded `brazilian' language definitions on input line 162.
+Package cleveref Info: loaded `brazilian' language definitions on input line 163.
 )
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: B43890F4840A48BEC5E75CC0D1248D76;235.
+(rerunfilecheck)             Checksum: F50029508BE67E707DA6BA76DA20BDC7;236.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34487 strings out of 468081
- 626817 string characters out of 5425788
- 1646636 words of memory out of 5000000
- 62525 multiletter control sequences out of 15000+600000
- 676226 words of font info for 140 fonts, out of 8000000 for 9000
+ 34461 strings out of 468081
+ 625806 string characters out of 5425788
+ 1640676 words of memory out of 5000000
+ 62522 multiletter control sequences out of 15000+600000
+ 675242 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,19n,131p,1835b,4564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,19n,131p,2055b,4564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (8 pages, 1315248 bytes).
+Output written on fatec-template.pdf (8 pages, 2226327 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 23584 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 23589 words of extra memory for PDF output out of 24883 (max. 10000000)
 

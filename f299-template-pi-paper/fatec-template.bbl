@@ -54,7 +54,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Sustainable Agriculture Through IoT-Enabled Vertical Farming}
+      \field{title}{Sustainable Agriculture Through {IoT}-Enabled Vertical Farming}
       \field{year}{2024}
       \verb{urlraw}
       \verb https://ieeexplore.ieee.org/document/10601426
@@ -64,40 +64,24 @@
       \endverb
     \endentry
     \entry{alves2021}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=94e7630b95084bc444349497874d3da1}{%
-           family={ALVES},
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4150f1a14b039bd0f8a6c91c16ffd163}{%
+           family={Alves},
            familyi={A\bibinitperiod},
            given={Deise\bibnamedelimb de\bibnamedelima Oliveira},
            giveni={D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=54b2156b70431c4c102adda735b9050d}{%
-           family={ROCHA},
-           familyi={R\bibinitperiod},
-           given={Geneci\bibnamedelimb da\bibnamedelimb Silva\bibnamedelima Rieiro},
-           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c18495beec7744f369fc434fd8974309}{%
-           family={KUCHAK},
-           familyi={K\bibinitperiod},
-           given={Maielen\bibnamedelima Lambrecht},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=39cd8ae569b4fd2cbf57c91bfd141d7d}{%
-           family={OLIVEIRA},
-           familyi={O\bibinitperiod},
-           given={Letícia\bibnamedelima de},
-           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod},
-           givenun=0}}%
       }
-      \strng{namehash}{775206a1f447bdb0a7343a7fe593bb6c}
-      \strng{fullhash}{a2a0900f8f633564d9e4372bd3560b54}
-      \strng{fullhashraw}{a2a0900f8f633564d9e4372bd3560b54}
-      \strng{bibnamehash}{775206a1f447bdb0a7343a7fe593bb6c}
-      \strng{authorbibnamehash}{775206a1f447bdb0a7343a7fe593bb6c}
-      \strng{authornamehash}{775206a1f447bdb0a7343a7fe593bb6c}
-      \strng{authorfullhash}{a2a0900f8f633564d9e4372bd3560b54}
-      \strng{authorfullhashraw}{a2a0900f8f633564d9e4372bd3560b54}
+      \strng{namehash}{9bde80007eba0de815d9422359f48740}
+      \strng{fullhash}{9bde80007eba0de815d9422359f48740}
+      \strng{fullhashraw}{9bde80007eba0de815d9422359f48740}
+      \strng{bibnamehash}{9bde80007eba0de815d9422359f48740}
+      \strng{authorbibnamehash}{9bde80007eba0de815d9422359f48740}
+      \strng{authornamehash}{9bde80007eba0de815d9422359f48740}
+      \strng{authorfullhash}{9bde80007eba0de815d9422359f48740}
+      \strng{authorfullhashraw}{9bde80007eba0de815d9422359f48740}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -173,10 +157,10 @@
       \field{title}{Brasil tem 15 cidades com mais de 1 milhão de habitantes}
       \field{year}{2025}
       \verb{urlraw}
-      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes#:~:text=As%20maiores%20s%C3%A3o%20a%20de,Belo%20Horizonte%20(6%20milh%C3%B5es).
+      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes
       \endverb
       \verb{url}
-      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes#:~:text=As%20maiores%20s%C3%A3o%20a%20de,Belo%20Horizonte%20(6%20milh%C3%B5es).
+      \verb https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes
       \endverb
     \endentry
     \entry{carnaz2016}{inproceedings}{}{}
@@ -208,44 +192,14 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Actas das 6as Jornadas de Informática de Universidade de Évora}
-      \field{title}{An Overview of IoT and Healthcare}
+      \field{booktitle}{ACTAS das 6as Jornadas de Informática de Universidade de Évora}
+      \field{title}{An Overview of {IoT} and Healthcare}
       \field{year}{2016}
       \verb{urlraw}
       \verb http://hdl.handle.net/10174/19998
       \endverb
       \verb{url}
       \verb http://hdl.handle.net/10174/19998
-      \endverb
-    \endentry
-    \entry{cepea2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f913130fcca2915112e2eeaa66b70fd5}{%
-           family={Cepea},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{fullhash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{fullhashraw}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{bibnamehash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{authorbibnamehash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{authornamehash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{authorfullhash}{f913130fcca2915112e2eeaa66b70fd5}
-      \strng{authorfullhashraw}{f913130fcca2915112e2eeaa66b70fd5}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 22 out. 2024}
-      \field{title}{PIB do Agronegócio Brasileiro}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
-      \endverb
-      \verb{url}
-      \verb https://cepea.esalq.usp.br/br/pib-do-agronegocio-brasileiro.aspx
       \endverb
     \endentry
     \entry{costa2025}{misc}{}{}
@@ -279,72 +233,6 @@
       \endverb
       \verb{url}
       \verb https://www.terra.com.br/byte/fazenda-vertical-conheca-ideia-inteligente-mas-cara-para-nossa-agricultura,8267ddb7c47bb3cae47443acebc3f9a4b9jno3x9.html
-      \endverb
-    \endentry
-    \entry{desiderio2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bdb5b73ccae5f522caaa2facdeea4463}{%
-           family={Desidério},
-           familyi={D\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{fullhash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{fullhashraw}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{bibnamehash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{authorbibnamehash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{authornamehash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{authorfullhash}{bdb5b73ccae5f522caaa2facdeea4463}
-      \strng{authorfullhashraw}{bdb5b73ccae5f522caaa2facdeea4463}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 13 abr. 2025}
-      \field{title}{PIB do Brasil cresce 3,4\% em 2024, puxado por serviços e indústria}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://economia.uol.com.br/noticias/redacao/2025/03/07/pib-2024.htm
-      \endverb
-      \verb{url}
-      \verb https://economia.uol.com.br/noticias/redacao/2025/03/07/pib-2024.htm
-      \endverb
-    \endentry
-    \entry{agenciagov2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=323c0f804428994b6cf2132ef9a5dc40}{%
-           family={Gov},
-           familyi={G\bibinitperiod},
-           given={Agência},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{fullhash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{fullhashraw}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{bibnamehash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{authorbibnamehash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{authornamehash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{authorfullhash}{323c0f804428994b6cf2132ef9a5dc40}
-      \strng{authorfullhashraw}{323c0f804428994b6cf2132ef9a5dc40}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 22 out. 2024}
-      \field{title}{Brasil e países do Mercosul fazem projeções para o agronegócio}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
-      \endverb
-      \verb{url}
-      \verb https://agenciagov.ebc.com.br/noticias/202410/brasil-elabora-documento-com-projecoes-para-o-agronegocio-em-parceria-com-paises-do-mercosul
       \endverb
     \endentry
     \entry{gundim2022}{article}{}{}
@@ -384,10 +272,10 @@
       \field{pages}{474\bibrangedash 485}
       \range{pages}{12}
       \verb{urlraw}
-      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf
       \endverb
       \verb{url}
-      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf?sequence=1&isAllowed=y
+      \verb https://repositorio.ufsc.br/bitstream/handle/123456789/245051/Vol.%205%20474%20-%20485.pdf
       \endverb
     \endentry
     \entry{haykin2001}{book}{}{}
@@ -453,43 +341,27 @@
       \field{year}{2023}
     \endentry
     \entry{lisbinski2020}{inproceedings}{}{}
-      \name{author}{4}{}{%
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4d8fa2885b59a5e215412da7f5a1f4fc}{%
            family={Lisbinski},
            familyi={L\bibinitperiod},
            given={Fernanda\bibnamedelima Cigainski},
            giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=2e8f2684caeb2196a432c9219c513976}{%
-           family={Mühl},
-           familyi={M\bibinitperiod},
-           given={Diego\bibnamedelima Durante},
-           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8a8d795df3775ab53deeccb2a06dfeb6}{%
-           family={Oliveira},
-           familyi={O\bibinitperiod},
-           given={Letícia\bibnamedelima de},
-           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c107a6c339a1f0037140a3b9ec9c7f85}{%
-           family={Coronel},
-           familyi={C\bibinitperiod},
-           given={Daniel\bibnamedelima Arruda},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
       }
       \list{location}{1}{%
         {Porto Alegre, RS}%
       }
       \strng{namehash}{092df723cf5e3b155490d8afc67c2ceb}
-      \strng{fullhash}{3ad03f0843899e911461386011bcadee}
-      \strng{fullhashraw}{3ad03f0843899e911461386011bcadee}
+      \strng{fullhash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{fullhashraw}{092df723cf5e3b155490d8afc67c2ceb}
       \strng{bibnamehash}{092df723cf5e3b155490d8afc67c2ceb}
       \strng{authorbibnamehash}{092df723cf5e3b155490d8afc67c2ceb}
       \strng{authornamehash}{092df723cf5e3b155490d8afc67c2ceb}
-      \strng{authorfullhash}{3ad03f0843899e911461386011bcadee}
-      \strng{authorfullhashraw}{3ad03f0843899e911461386011bcadee}
+      \strng{authorfullhash}{092df723cf5e3b155490d8afc67c2ceb}
+      \strng{authorfullhashraw}{092df723cf5e3b155490d8afc67c2ceb}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -498,13 +370,13 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{VIII Simpósio de Ciência do Agronegócio – Inovação e Empreendedorismo no Agronegócio}
       \field{note}{Acesso em: 9 set. 2025}
-      \field{title}{Perspectivas e desafios da Agricultura 4.0 para o setor agrícola / Perspectives and challenges of Agriculture 4.0 for the agricultural sector}
+      \field{title}{Perspectivas e desafios da Agricultura 4.0 para o setor agrícola}
       \field{year}{2020}
       \verb{urlraw}
-      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf?se
+      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf
       \endverb
       \verb{url}
-      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf?se
+      \verb https://lume.ufrgs.br/bitstream/handle/10183/218601/001122708.pdf
       \endverb
     \endentry
     \entry{lucena2021}{article}{}{}
@@ -537,7 +409,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{urbe. Revista Brasileira de Gestão Urbana}
-      \field{title}{O papel da moderna agricultura urbana de Singapura na política de segurança alimentar e na contribuição da redução de emissão de CO2 na atmosfera}
+      \field{title}{O papel da moderna agricultura urbana de Singapura na política de segurança alimentar e na contribuição da redução de emissão de {CO2} na atmosfera}
       \field{volume}{13}
       \field{year}{2021}
       \field{pages}{e20190272}
@@ -581,35 +453,37 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Hortic. bras.}
+      \field{journaltitle}{Horticultura Brasileira}
       \field{number}{3}
       \field{title}{Produção hidropônica de alface em solução nutritiva com e sem silício}
       \field{volume}{24}
       \field{year}{2006}
       \verb{urlraw}
-      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/
       \endverb
       \verb{url}
-      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/?format=pdf&lang=pt
+      \verb https://www.scielo.br/j/hb/a/99RFWNLdK6G8HNLtFBpDzrL/
       \endverb
     \endentry
     \entry{paixao2022}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=13e291aa58812129467cc9fe69ade59b}{%
+        {{un=0,uniquepart=base,hash=75cf3ceaefde4510e3d7807bae1f90d5}{%
            family={Paixão},
            familyi={P\bibinitperiod},
-           given={G.\bibnamedelimi M.\bibnamedelimi de\bibnamedelimb M.\bibnamedelimi et\bibnamedelima al.},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           given={G.\bibnamedelimi M.\bibnamedelimi de\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{fullhash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{fullhashraw}{13e291aa58812129467cc9fe69ade59b}
-      \strng{bibnamehash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{authorbibnamehash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{authornamehash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{authorfullhash}{13e291aa58812129467cc9fe69ade59b}
-      \strng{authorfullhashraw}{13e291aa58812129467cc9fe69ade59b}
+      \strng{namehash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{fullhash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{fullhashraw}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{bibnamehash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{authorbibnamehash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{authornamehash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{authorfullhash}{0913f98fdf1411c2f3e85570a9116115}
+      \strng{authorfullhashraw}{0913f98fdf1411c2f3e85570a9116115}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -648,10 +522,10 @@
       \field{title}{Insegurança alimentar atinge cerca de 50\% da população da cidade de SP}
       \field{year}{2024}
       \verb{urlraw}
-      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp#:~:text=E%20tem%20ainda%20a%20inseguran%C3%A7a,a%20Alimenta%C3%A7%C3%A3o%20e%20a%20Agricultura.
+      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp
       \endverb
       \verb{url}
-      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp#:~:text=E%20tem%20ainda%20a%20inseguran%C3%A7a,a%20Alimenta%C3%A7%C3%A3o%20e%20a%20Agricultura.
+      \verb https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2024-09/inseguranca-alimentar-atinge-cerca-de-50-da-populacao-da-cidade-de-sp
       \endverb
     \endentry
     \entry{rakhmatulin2021}{article}{}{}
@@ -689,55 +563,27 @@
       \endverb
     \endentry
     \entry{ryu2015}{inproceedings}{}{}
-      \name{author}{6}{}{%
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=42037d421db1db222592e4349507debc}{%
            family={Ryu},
            familyi={R\bibinitperiod},
            given={Minwoo},
            giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=838f18cb656615acf5e5eaec2a117b32}{%
-           family={Yun},
-           familyi={Y\bibinitperiod},
-           given={Jaeseok},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f0888ff7fc75df606d301569f62fae71}{%
-           family={Miao},
-           familyi={M\bibinitperiod},
-           given={Ting},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=94362b8b767f56f531058e6c87c9f65d}{%
-           family={Ahn},
-           familyi={A\bibinitperiod},
-           given={Il-Yeup},
-           giveni={I\bibinithyphendelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc32149fd48816313a5a46d71d1f9c30}{%
-           family={Choi},
-           familyi={C\bibinitperiod},
-           given={Sung-Chan},
-           giveni={S\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=05256499e056fde9e927ab0444eaf3e8}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Jaeho},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
       }
       \list{location}{1}{%
         {Busan, Coreia do Sul}%
       }
       \strng{namehash}{9a805061e1d98dca7d2d0a7009d08dfa}
-      \strng{fullhash}{6d9e6c2de6bd07cedc31b324c7caacdf}
-      \strng{fullhashraw}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \strng{fullhash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{fullhashraw}{9a805061e1d98dca7d2d0a7009d08dfa}
       \strng{bibnamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
       \strng{authorbibnamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
       \strng{authornamehash}{9a805061e1d98dca7d2d0a7009d08dfa}
-      \strng{authorfullhash}{6d9e6c2de6bd07cedc31b324c7caacdf}
-      \strng{authorfullhashraw}{6d9e6c2de6bd07cedc31b324c7caacdf}
+      \strng{authorfullhash}{9a805061e1d98dca7d2d0a7009d08dfa}
+      \strng{authorfullhashraw}{9a805061e1d98dca7d2d0a7009d08dfa}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -789,40 +635,24 @@
       \endverb
     \endentry
     \entry{saraswathy2020}{article}{}{}
-      \name{author}{4}{}{%
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=395f7ab6fc3e2a1d9574d0e030e6ed15}{%
            family={Saraswathy},
            familyi={S\bibinitperiod},
            given={V.\bibnamedelimi R.},
            giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=d756411d56a1e61e8fd8168e2157a531}{%
-           family={Nithiesh},
-           familyi={N\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c95b65b65ee2ed20827f2d1fe9b7a272}{%
-           family={Kumaravel},
-           familyi={K\bibinitperiod},
-           given={P.\bibnamedelimi S.},
-           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=44cbce120d6f8003704e46955fda8e94}{%
-           family={Ruphasri},
-           familyi={R\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
       }
       \strng{namehash}{1ccd6756c834640ed8890d45561fda30}
-      \strng{fullhash}{7269ac21dc935dbf405699cbcb974147}
-      \strng{fullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \strng{fullhash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{fullhashraw}{1ccd6756c834640ed8890d45561fda30}
       \strng{bibnamehash}{1ccd6756c834640ed8890d45561fda30}
       \strng{authorbibnamehash}{1ccd6756c834640ed8890d45561fda30}
       \strng{authornamehash}{1ccd6756c834640ed8890d45561fda30}
-      \strng{authorfullhash}{7269ac21dc935dbf405699cbcb974147}
-      \strng{authorfullhashraw}{7269ac21dc935dbf405699cbcb974147}
+      \strng{authorfullhash}{1ccd6756c834640ed8890d45561fda30}
+      \strng{authorfullhashraw}{1ccd6756c834640ed8890d45561fda30}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -841,66 +671,6 @@
       \endverb
       \verb{url}
       \verb https://iaeme.com/Home/issue/IJEET?Volume=11&Issue=4
-      \endverb
-    \endentry
-    \entry{seade2025}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ee461cefbe0466deafc3b59a8fc6b4b1}{%
-           family={SEADE},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{fullhash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{fullhashraw}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{bibnamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{authorbibnamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{authornamehash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{authorfullhash}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \strng{authorfullhashraw}{ee461cefbe0466deafc3b59a8fc6b4b1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 04 set. 2025}
-      \field{title}{Seade PIB}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://pib.seade.gov.br/integra/?analise=pib-cresceu-na-maioria-das-regioes-do-estado-em-2024
-      \endverb
-      \verb{url}
-      \verb https://pib.seade.gov.br/integra/?analise=pib-cresceu-na-maioria-das-regioes-do-estado-em-2024
-      \endverb
-    \endentry
-    \entry{sindresbar2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f07e1eccb9318681bc4b7db75501a97d}{%
-           family={SINDRESBAR},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{fullhash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{fullhashraw}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{bibnamehash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{authorbibnamehash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{authornamehash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{authorfullhash}{f07e1eccb9318681bc4b7db75501a97d}
-      \strng{authorfullhashraw}{f07e1eccb9318681bc4b7db75501a97d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 04 set. 2025}
-      \field{title}{São Paulo: a capital dos bares e restaurantes do Brasil}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/
-      \endverb
-      \verb{url}
-      \verb https://sindresbar.com.br/sao-paulo-a-capital-dos-bares-e-restaurantes-do-brasil/
       \endverb
     \endentry
     \entry{sousa2023}{misc}{}{}
@@ -926,7 +696,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Patos de Minas – MG: Universidade Federal de Uberlândia, Faculdade de Engenharia Elétrica, Engenharia Eletrônica e de Telecomunicações}
+      \field{howpublished}{Universidade Federal de Uberlândia}
       \field{note}{Acesso em: 9 set. 2025}
       \field{title}{Desenvolvimento de módulos de sensoriamento para a supervisão e controle de fazendas verticais}
       \field{year}{2023}
@@ -935,39 +705,6 @@
       \endverb
       \verb{url}
       \verb https://repositorio.ufu.br/bitstream/123456789/38575/1/DesenvolvimentoM%C3%B3dulosSensoriamento.pdf
-      \endverb
-    \endentry
-    \entry{agenciasp2025}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=35f03c7b05a5730c4ca2f944a40bff42}{%
-           family={SP},
-           familyi={S\bibinitperiod},
-           given={Agência},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{fullhash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{fullhashraw}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{bibnamehash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{authorbibnamehash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{authornamehash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{authorfullhash}{35f03c7b05a5730c4ca2f944a40bff42}
-      \strng{authorfullhashraw}{35f03c7b05a5730c4ca2f944a40bff42}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Acesso em: 13 abr. 2025}
-      \field{title}{PIB paulista cresce 3,4\% em 2024}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://www.agenciasp.sp.gov.br/pib-paulista-cresce-34-em-2024/
-      \endverb
-      \verb{url}
-      \verb https://www.agenciasp.sp.gov.br/pib-paulista-cresce-34-em-2024/
       \endverb
     \endentry
     \entry{nacoesunidas2024}{misc}{}{}

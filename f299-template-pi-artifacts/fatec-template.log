@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  23 OCT 2025 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.22)  23 OCT 2025 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1295,7 +1295,7 @@ Package pdftex.def Info: Logos/PI - Diagrama de Objetos.png  used on input line 
 File: Logos/PI - Diagrama de Banco de Dados.png Graphic file (type png)
 <use Logos/PI - Diagrama de Banco de Dados.png>
 Package pdftex.def Info: Logos/PI - Diagrama de Banco de Dados.png  used on input line 48.
-(pdftex.def)             Requested size: 177.06285pt x 153.57492pt.
+(pdftex.def)             Requested size: 236.0823pt x 204.76526pt.
 
 
 [3 <./Logos/PI - Diagrama de Objetos.png>]
@@ -1315,11 +1315,11 @@ Package pdftex.def Info: ./Logos/PI - CANVAS.png  used on input line 61.
 
 
 [4 <./Logos/PI - Diagrama de Banco de Dados.png>]
-<./Logos/PI - Diagrama de rede.png, id=71, 794.97pt x 614.295pt>
+<./Logos/PI - Diagrama de rede.png, id=71, 624.23213pt x 554.67226pt>
 File: ./Logos/PI - Diagrama de rede.png Graphic file (type png)
 <use ./Logos/PI - Diagrama de rede.png>
 Package pdftex.def Info: ./Logos/PI - Diagrama de rede.png  used on input line 74.
-(pdftex.def)             Requested size: 317.98236pt x 245.71364pt.
+(pdftex.def)             Requested size: 436.95952pt x 388.26793pt.
 
 
 [5 <./Logos/PI - CANVAS.png>]
@@ -1327,7 +1327,12 @@ Package pdftex.def Info: ./Logos/PI - Diagrama de rede.png  used on input line 7
 File: ./Logos/PI - SWOT.jpg Graphic file (type jpg)
 <use ./Logos/PI - SWOT.jpg>
 Package pdftex.def Info: ./Logos/PI - SWOT.jpg  used on input line 87.
-(pdftex.def)             Requested size: 379.72156pt x 372.79562pt.
+(pdftex.def)             Requested size: 506.28253pt x 497.0482pt.
+
+Overfull \hbox (22.58566pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
 
 
 [6 <./Logos/PI - Diagrama de rede.png>]
@@ -1335,7 +1340,7 @@ Package pdftex.def Info: ./Logos/PI - SWOT.jpg  used on input line 87.
 File: ./Logos/PI - Kanban Greenrise.png Graphic file (type png)
 <use ./Logos/PI - Kanban Greenrise.png>
 Package pdftex.def Info: ./Logos/PI - Kanban Greenrise.png  used on input line 100.
-(pdftex.def)             Requested size: 364.3548pt x 282.75136pt.
+(pdftex.def)             Requested size: 455.45044pt x 353.4446pt.
 
 
 [7 <./Logos/PI - SWOT.jpg>]
@@ -1366,7 +1371,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  87i,12n,131p,1816b,4538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Erlon/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (8 pages, 608466 bytes).
+Output written on fatec-template.pdf (8 pages, 603437 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 500000)

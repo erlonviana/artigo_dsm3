@@ -278,6 +278,8 @@ INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\b
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
@@ -303,8 +305,6 @@ INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pd
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
-INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
@@ -398,6 +398,7 @@ INPUT .\Topicos\introducao.tex
 INPUT .\Topicos\introducao.tex
 INPUT .\Topicos\introducao.tex
 INPUT Topicos\introducao.tex
+INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmsso12.tfm
 INPUT .\Illustrations\fatec.jpg
 INPUT .\Illustrations\fatec.jpg
 INPUT .\Illustrations\fatec.jpg
@@ -409,7 +410,6 @@ INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmss8.tfm
 INPUT C:\Users\Erlon\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Users\Erlon\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmsso12.tfm
 INPUT .\Topicos\objetivo.tex
 INPUT .\Topicos\objetivo.tex
 INPUT .\Topicos\objetivo.tex
@@ -425,20 +425,27 @@ INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
 INPUT .\Topicos\metodologia.tex
 INPUT Topicos\metodologia.tex
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma1.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
-INPUT .\Illustrations\Fluxograma2.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 1.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 2.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
+INPUT .\Illustrations\Figura 3.png
 INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
